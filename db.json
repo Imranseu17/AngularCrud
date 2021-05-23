@@ -1,0 +1,101 @@
+{
+  "restaurants": [
+    {
+      "name": "KFC restaurant",
+      "email": "kfc@test.com",
+      "address": "nodia sector 128",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "OM restaurant",
+      "address": "delhi sector 50",
+      "email": "on@test.com"
+    },
+    {
+      "id": 3,
+      "name": "burgent king restaurant",
+      "address": "delhi sector 20",
+      "email": "bking@test.com"
+    },
+    {
+      "id": 4,
+      "name": "dominos King restaurant",
+      "address": "gurgaon sector 30",
+      "email": "dominos@test.com"
+    },
+    {
+      "id": 5,
+      "name": "halidram King restaurant",
+      "address": "draka sector 10",
+      "email": "halidram@test.com"
+    },
+    {
+      "name": "imran",
+      "email": "imran@gmail.com",
+      "address": "Australia",
+      "id": 6
+    },
+    {
+      "name": "natural food",
+      "email": "natural@test.com",
+      "address": "noida sector 210",
+      "id": 7
+    },
+    {
+      "name": "Imran Khan",
+      "email": "imran@test.com",
+      "address": "bangladesh",
+      "id": 8
+    },
+    {
+      "name": "Kibria",
+      "email": "kibria@test.com",
+      "address": "Ka-160/2 kuril , vatara",
+      "id": 9
+    },
+    {
+      "name": "kibria",
+      "email": "kibria@test.com",
+      "address": "ka-160/2,kuril,vatara,Dhaka",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "name": "peter",
+      "email": "peter@test.com",
+      "password": "peter123",
+      "id": 1
+    },
+    {
+      "name": "anil",
+      "email": "anil@test.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "smith",
+      "email": "smith@test.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "email": "anil@test.com",
+      "password": "12345",
+      "id": 4
+    }
+  ],
+  "login": [
+    {
+      "email": "anil@test.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "email": "smith@test.com",
+      "password": "12345",
+      "id": 2
+    }
+  ]
+}
